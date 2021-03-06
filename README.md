@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there, stranger 👋
 
-<!--
-**JohnHallstrom/JohnHallstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
 
-Here are some ideas to get you started:
+<summary>Check me out</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this `README.md`
+- 🌱 I’m currently learning how this 'special repo' works
+- 👯 I’m looking to collaborate on my bad manners
+- 🤔 I’m looking for help with my gassy stomach
+- 💬 Ask me about gassy stomachs
+- 📫 How to reach me: hallstrom.john@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: No fun facts
+
+</details>
