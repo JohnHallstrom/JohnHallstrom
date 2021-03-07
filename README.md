@@ -1,4 +1,4 @@
-### Hello there, stranger 👋
+### Welcome to my GitHub 👋
 
 <details>
 
@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on this `README.md`
 - 🌱 I’m currently learning how this 'special repo' works
-- 👯 I’m looking to collaborate on my bad manners
+- 👯 I’m looking to collaborate on my bad jokes
 - 🤔 I’m looking for help with my gassy stomach
 - 💬 Ask me about gassy stomachs
 - 📫 How to reach me: hallstrom.john@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: No fun facts
+- ⚡ Fun fact: I'm taller than I am wide
 
 </details>
