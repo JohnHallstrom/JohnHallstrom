@@ -1,16 +1,10 @@
 ### Welcome to my GitHub 👋
 
-<details>
+Here, you can normally find all the projects that I'm working on,  
+but right now it's a little bit more tidy because I'm applying for internships! 😊
 
-<summary>Check me out</summary>
-
-- 🔭 I’m currently working on this `README.md`
-- 🌱 I’m currently learning how this 'special repo' works
-- 👯 I’m looking to collaborate on my bad jokes
-- 🤔 I’m looking for help with my gassy stomach
-- 💬 Ask me about gassy stomachs
-- 📫 How to reach me: hallstrom.john@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm taller than I am wide
-
-</details>
+I hope you like what you're look into,  
+and if any questions should arise,  
+don't hesitate to hit me up! 😀  
+  
+Cheers!
